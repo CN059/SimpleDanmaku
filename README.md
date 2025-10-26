@@ -1,5 +1,9 @@
 # Nuxt Minimal Starter
 
+## Display
+
+![image](/images/df5a027b-1691-46b2-ad1d-d541657ad3a3.png)
+
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
